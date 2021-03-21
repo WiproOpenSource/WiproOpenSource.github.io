@@ -20,7 +20,7 @@ The blog has the following structure:
 
 ## what are these blogs and interviews about?
 
-Aloha, Konichiwa, Namaste and Hi to everyone reading this blog. The Open Source Community within Wipro is at a niche stage and we are growing each day.The goal is to have an engaged and informed community that maximises the effectiveness of our resources and most importantly, gives our developers a better experience in their journey of contributing to open-source. 
+*Aloha*, *Konichiwa*, *Namaste* and *Hi* to everyone reading this blog. The Open Source Community within Wipro is at a niche stage and we are growing each day. The goal is to have an engaged and informed community that maximises the effectiveness of our resources and most importantly, gives our developers a better experience in their journey of contributing to open-source. 
 
 Wipro has been a long time contributor to various open-source projects over the last two decades. The goal of this blog series is to find the champions who lead these open source efforts at Wipro and connect them with you, our readers! We have a bunch of interviews planned and as we go along, we will introduce you to a bunch of really cool people whose journeys will inspire you.
 
@@ -41,7 +41,7 @@ Satish started in Wipro as a test engineer, his first gig was testing the featur
 
 ## GNOME
 
-During our interview with Satish, Satish shared with us what it was like to use and contribute to open-source a couple of days, ago. Early in his career as a test lead, Satish had the opportunity to work on the GNOME desktop environment. He had been tasked with integrating the GNOME DE with Sun Solaris' UNIX system. As a test module lead, it was Satish's job to lead a team that made sure the changes made by the development team were working with the changes being made by the open-source community to the GNOME code-base. During this assignment, which lasted around 1.5 years, Satish and his team wrote more than 4000 unit tests. Almost all of these tests were contributed back to the GNOME desktop environment.
+During our interview, Satish shared with us what it was like to use and contribute to open-source a couple of days, ago. Early in his career as a test lead, Satish had the opportunity to work on the GNOME desktop environment. He had been tasked with integrating the GNOME DE with Sun Solaris' UNIX system. As a test module lead, it was Satish's job to lead a team that made sure the changes made by the development team were working with the changes being made by the open-source community to the GNOME code-base. During this assignment, which lasted around 1.5 years, Satish and his team wrote more than 4000 unit tests. Almost all of these tests were contributed back to the GNOME desktop environment.
 
 Back in 2004-2005, GNOME was in its early days, with poor documentation. We can see some of Satish's emails on the GNOME mailing-list, asking for help with documentation.
 
@@ -57,13 +57,12 @@ Today, as Satish continues to work for clients on proprietary solutions, he work
 
 ## Satish and his journey into Kubernetes
 
+**TODO**: need to add something more about the `expect` thingy.
 Satish has been using different kinds of open-source tools for almost all of his career, as a testing lead. He relays the one time he used the [`expect`](https://www.tcl.tk/man/expect5.31/expect.1.html) module that uses scripts written in [TCL](https://www.tcl.tk/).
 
 Satish throughout his career, has worked on numerous Linux and Unix-based distros from the popular ones like centOS and Debian to more niche ones like Alpine Linux. The many years, he spent in the Linux ecosystem, helped him develop his problem-solving skills.
 
 In 2016, his manager (enter name of Manager here), introduced Satish to Dockers and containers. He gave Satish an AWS instance and 2 weeks of time, asking him to learn whatever he could and experiment. 2 weeks later, Satish along with his manager, presented a docker-based solution to a client. This is a recurring theme, that we will continue seeing throughout Satish's interview and the many other interview that will happen in the future. There is a culture of pushing people out of their intellectual comfort zones, practiced by Managers at Wipro. In the case, of Satish, time and again, Satish has rised to meet the technical challenges set in front of him by his clients or managers. Whether, it is about learning something new, or achieving a highly complex solution. Satish grows in great depth througout the interview, mentioning all the great work he has done as part of the Cloud Practice, at Wipro.
-
-**NOTE**: Started working on kubernetes in 2016
 
 ### How do you think Wipro can benefit from participating in open-source as opposed to just consuming it?
 1. Opportunity interact with community leaders/experts & develop skill set in various / new domains, acquire additional knowledge about product/tool for development or enhancement.
